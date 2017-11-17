@@ -6,3 +6,4 @@ When you edit a branch from the master file (branch = copy, master = original) t
 What I'm typing here is a commit message.  This tells others reading what the changes I made were, and why I made them.
 
 Suzy
+
